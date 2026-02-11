@@ -1,10 +1,10 @@
-### 👋 Hey there! I'm uhFinn
+### 👋 Hey there! I'm Finn
 
-I'm a developer with 6 years of experience, learning as I go
+I'm a developer with 8 years of experience.
 
 
 #### A bit about what I can do:
-- **Platforms**: Web, Minecraft, Discord
+- **Platforms**: Web Mobile, Minecraft, Discord
 - **Languages**: Java, Javascript, Python
 - **Databases**: MySQL, MongoDB
 
