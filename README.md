@@ -6,7 +6,8 @@ I'm a 21 y/o developer with 8+ years of experience.
 - **Platforms**: Web (full stack), Desktop, Mobile, Minecraft
 - **Languages**: Java, Javascript, TypeScript, Python, C++
 - **Database Engineering**: MySQL, MongoDB
-- 
+
+  
 
 <a href="https://uk.linkedin.com/in/finn-scully-2b338524a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/finnscully" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
